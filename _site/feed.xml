@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description>Stylish Jekyll Theme</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>The Beginning</title>
+				<description>&lt;p&gt;This past Friday marked the conclusion of my first week in Software Engineering. Already, I’ve been consumed with an overwhelming amount of firsts. First time learning Python and JavaScript, first time utilizing continuous integration tools, and in the grand scheme of this course, the first time I’m going to contribute to a Full Stack Project.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Before I begin&lt;/strong&gt;, I would urge anyone to read &lt;a href=&quot;http://www.amazon.com/Extreme-Programming-Installed-Ron-Jeffries/dp/0201708426&quot;&gt;this&lt;/a&gt; book. I cannot be more thankful that it was assigned as a required reading, else I never would have come across it. It gives a remarkabley beautiful overview of the functioning and timespan of extreme programming projects. In a nutshell, the full cycle is discussed, from customer need, to implementation, to the importance of Unit Testing, and finally, to deployement. As students with very little real-world job experience, it was a pleasure to sneek a peak of aspects of software enginnering &lt;strong&gt;other than programming&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;What’s more beautiful is its relevance to this class. (… to be continued)&lt;/p&gt;
+</description>
+				<pubDate>Fri, 12 Jun 2015 00:00:00 -0500</pubDate>
+				<link>/general/2015/06/12/hello-world.html</link>
+				<guid isPermaLink="true">/general/2015/06/12/hello-world.html</guid>
+			</item>
+		
+	</channel>
+</rss>

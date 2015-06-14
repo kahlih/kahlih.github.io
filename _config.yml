@@ -1,24 +1,31 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Permalinks
-permalink:        pretty
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: pygments
+markdown: kramdown
 
-# Setup
-title:            CS373 Summer 2015
-tagline:          'by Kahli Holmes'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
 
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 'CS373 Summer 2015: Kahli Holmes'
+
+description: Stylish Jekyll Theme
 author:
-  name:           'Kahli Holmes'
-  url:            kahlih.github.io/
+  name: Kahli Holmes
+  email: kahliholmes@utexas.edu
+  github: kahlih
+  linkedin: kahliholmes
+  bio: Kahli Holmes!
+  email_md5: 726351295ec82e145928582f595aa3aa
 
-paginate:         5
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+about_path: about.html
 
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/kahlih/kahlih.github.io
+BASE_PATH:
