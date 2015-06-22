@@ -17,10 +17,23 @@
     &lt;li&gt;You can check an objects attributes with hasattr(). More specifically, use __iter__ or __next__ (and other comparables) to see if the object is iterable and/or indexable (respectively). &lt;/li&gt;
     &lt;li&gt;When iterating over containers in Python, it is good practice to never index via some counter. Instead, to make your code more universal for other forms of input, iterate over your structures. This is because most containers in Python are iterable, and it makes your code more generic!&lt;/li&gt;
   &lt;/ul&gt;
+
+&lt;p&gt;Our next project is underway. The Project: to build a Netflix Prediction engine. We are to suggest what movies a customer would like based on their ratings of other movies and ratings others gave on movies. The Hard Part: managing multiple megabytes of data, consisting of customer names, ratings and ids, and movie ratings, dates, names, and ids. More than likely that data is going to be housed in a JSON object and pulled into our code in that manner. Haven’t got too much experience in that department, but its sure going to be a great experience getting my hands on it. &lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip of The Week:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I found this neat little trick when reading some documents on Python. If you have an html file in your current local directory and run:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;python -m SimpleHTTPServer
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You can pull up your web browser and type http://localhost:8000/ to view it.&lt;/p&gt;
 </description>
 				<pubDate>Sun, 21 Jun 2015 00:00:00 -0500</pubDate>
-				<link>/general/2015/06/21/week2.html</link>
-				<guid isPermaLink="true">/general/2015/06/21/week2.html</guid>
+				<link>/python/2015/06/21/week2.html</link>
+				<guid isPermaLink="true">/python/2015/06/21/week2.html</guid>
 			</item>
 		
 			<item>
@@ -43,8 +56,8 @@
 
 </description>
 				<pubDate>Fri, 12 Jun 2015 00:00:00 -0500</pubDate>
-				<link>/general/2015/06/12/hello-world.html</link>
-				<guid isPermaLink="true">/general/2015/06/12/hello-world.html</guid>
+				<link>/general/tools/2015/06/12/hello-world.html</link>
+				<guid isPermaLink="true">/general/tools/2015/06/12/hello-world.html</guid>
 			</item>
 		
 	</channel>
