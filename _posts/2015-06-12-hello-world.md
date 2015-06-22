@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beginning
-categories: [general]
+categories: [general, tools]
 tags: []
 fullview: true
 ---
