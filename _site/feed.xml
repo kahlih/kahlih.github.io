@@ -7,6 +7,23 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Python</title>
+				<description>&lt;p&gt;Python is a very &lt;strong&gt;unique language&lt;/strong&gt;. I’ve coded in Python in the past, but not to the extent that I have these past couple of weeks. I made a couple of naive assumptions about Python before this class. One was the simple fact that Python is the most readable language, and because it almost seems like English, its easy to learn for any beginner programmer. I’ve been a CS major now for about two years, and Python is throwing me through loops I would of never pictured.&lt;/p&gt;
+
+&lt;p&gt;Here are some neat things I’ve learned about this past week exploring Python:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Containers and Iterable Structures in Python: lists, tuples, sets, dictionaries, and generators &lt;/li&gt;
+    &lt;li&gt;Tuples are immutable. Sets must be hashable. Generators are lazy. &lt;/li&gt;
+    &lt;li&gt;You can check an objects attributes with hasattr(). More specifically, use __iter__ or __next__ (and other comparables) to see if the object is iterable and/or indexable (respectively). &lt;/li&gt;
+    &lt;li&gt;When iterating over containers in Python, it is good practice to never index via some counter. Instead, to make your code more universal for other forms of input, iterate over your structures. This is because most containers in Python are iterable, and it makes your code more generic!&lt;/li&gt;
+  &lt;/ul&gt;
+</description>
+				<pubDate>Sun, 21 Jun 2015 00:00:00 -0500</pubDate>
+				<link>/general/2015/06/21/week2.html</link>
+				<guid isPermaLink="true">/general/2015/06/21/week2.html</guid>
+			</item>
+		
+			<item>
 				<title>The Beginning</title>
 				<description>&lt;p&gt;This past Friday marked the conclusion of my first week in Software Engineering. Already, I’ve been consumed with an &lt;strong&gt;overwhelming amount of firsts&lt;/strong&gt;. First time learning Python and JavaScript, first time utilizing continuous integration tools, and in the grand scheme of this course, the first time I’m going to contribute to a Full Stack Project.&lt;/p&gt;
 
