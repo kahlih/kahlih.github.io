@@ -7,6 +7,25 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Week 3</title>
+				<description>&lt;p&gt;Week three has come and gone, and I must say much was accomplished. &lt;/p&gt;
+
+&lt;p&gt;It started out with the completion of our second project, Netflix. It was definately a step into some new territory completing that project, but all in all, it ended in success. I was able to submit it in time and complete all of the requirements. Exposure to JSON … Check. Practicing XP practices … Check. Learning the Value of Testing … Check. &lt;/p&gt;
+
+&lt;p&gt;The high point of the week, however, was meeting our guest lecturer from Rackspace, &lt;strong&gt;Everett Toews&lt;/strong&gt;. He came in to give us a tutorial on how to spin up our own servers (hosted by Rackspace) and launch a VM, which will all tie in to our 3-phase group project that we’ll be starting on this upcoming week. &lt;/p&gt;
+
+&lt;p&gt;Test 3 is on Monday, and I can’t help but feel a little eager to take it. I feel like my head is about to explode from the plethera of Python coding guru-knowledge that’s just beginning to settle in my brain, and I’m ready to put it to the test. As quoted from Downing, the test itself will be soley code based, and if that is the case, I feel as though I’ll have a fun time. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip of the Week:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout this painful (and short) weekend of studying, I have found posts by &lt;strong&gt;&lt;a href=&quot;http://www.jeffknupp.com/about-me/&quot;&gt;Jeff&lt;/a&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;a href=&quot;http://www.shutupandship.com/&quot;&gt;Praveen&lt;/a&gt;&lt;/strong&gt; to be really helpful in giving thorough explainations of topics we have covered in class. I especially enjoyed their posts about Python Generators, Classes and OO Style, and understanding Python Iterables and Iterators.  &lt;/p&gt;
+</description>
+				<pubDate>Sun, 28 Jun 2015 00:00:00 -0500</pubDate>
+				<link>/2015/06/28/week3.html</link>
+				<guid isPermaLink="true">/2015/06/28/week3.html</guid>
+			</item>
+		
+			<item>
 				<title>Python</title>
 				<description>&lt;p&gt;Python is a very &lt;strong&gt;unique language&lt;/strong&gt;. I’ve coded in Python in the past, but not to the extent that I have these past couple of weeks. I made a couple of naive assumptions about Python before this class. One was the simple fact that Python is the most readable language, and because it almost seems like English, its easy to learn for any beginner programmer. I’ve been a CS major now for about two years, and Python is throwing me through loops I would of never pictured.&lt;/p&gt;
 
