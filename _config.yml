@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 'CS373 Summer 2015: Kahli Holmes'
+      title: 'CS371p Fall 2015: Kahli Holmes'
 
 description: Stylish Jekyll Theme
 author:
